@@ -1,0 +1,6 @@
+A tag is a markup code used to define the beginning and end of an HTML element. Tags are enclosed in angle brackets (<>).
+Tags are used to tell the web browser how to render content.
+Tags can be paired (opening and closing tags) or self-closing (void tags).
+Element: An element is a complete set of tags that encloses content and defines its type or purpose.
+Elements consist of an opening tag, content, and a closing tag. 
+Elements can be nested within each other to create a hierarchical structure for web page content.
